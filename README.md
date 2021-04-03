@@ -1,6 +1,6 @@
 # Gradle Libraries Plugin
 
-[![Build Status](https://api.cirrus-ci.com/github/fkorotkov/gradle-libraries-plugin.svg)](https://cirrus-ci.com/github/fkorotkov/gradle-libraries-plugin)
+Forked from: github/fkorotkov/gradle-libraries-plugin
 
 This plugin allows to specify versions of external libraries in a centralized place and use them across the project. It's specifically useful for Gradle multi-projects.
 
